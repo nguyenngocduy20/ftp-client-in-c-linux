@@ -1,12 +1,12 @@
 /*
- * ftp.h
+ * header.h
  *
  *  Created on: May 4, 2016
  *      Author: nguyenngocduy
  */
 
-#ifndef FTP_H_
-#define FTP_H_
+#ifndef HEADER_H_
+#define HEADER_H_
 
 //Kieu bool
 typedef int bool;
